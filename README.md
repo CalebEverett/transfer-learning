@@ -1,4 +1,4 @@
-*If the [notebook](https://github.com/CalebEverett/transfer-learning/blob/master/transfer-learning.ipynb) won't display online at github, you can [view it online at nbviewer](https://nbviewer.jupyter.org/github/CalebEverett/transfer-learning/blob/master/transfer-learning.ipynb).*
+*If the [notebook](https://github.com/CalebEverett/transfer-learning/blob/master/transfer-learning.ipynb) won't display online at github, you can [view it online at nbviewer](https://nbviewer.jupyter.org/github/CalebEverett/transfer-learning/blob/master/transfer-learning.ipynb?flush_cache=true).*
 
 This notebook implements transfer learning using the [Resnet50](https://arxiv.org/abs/1512.03385) model to classify images in the [STL-10 dataset](https://cs.stanford.edu/~acoates/stl10/). 
 
